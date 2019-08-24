@@ -1,0 +1,46 @@
+Para comerça salva 2018.1no c do cp nova pasta exercicio
+{- bloco de comando,modulo
+
+para incicia comando let ou var/let variavio local
+value- para estuda
+document.write("Par")- para paga o domcumento de cima
+
+para cria uma aria ser ingetado la em cima
+
+ctrl+^+" no visual-do lado git init  entre para ir direto 
+ git add . adiciona
+git commit - m "inicio"-  para ter um comentario de pois do m "".
+: comando para site saì   do  vim.
+
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+PS C:\2018.1\exercicio> git init
+Initialized empty Git repository in C:/2018.1/exercicio/.git/
+PS C:\2018.1\exercicio>  git add .
+PS C:\2018.1\exercicio> git commit - m "inicio"
+error: pathspec '-' did not match any file(s) known to git
+error: pathspec 'm' did not match any file(s) known to git
+error: pathspec 'inicio' did not match any file(s) known to git
+PS C:\2018.1\exercicio> git commit -m "inicio"
+[master (root-commit) caf801b] inicio
+ Committer: Técnico em Informática <24121742018.1@senacrjedu.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 38 insertions(+)
+ create mode 100644 48.html
+ create mode 100644 notacao.txt
+PS C:\2018.1\exercicio> git config user.name "Fernanda"
+PS C:\2018.1\exercicio> git config user.email "fernandatavaresjesus@gmail.com"
+PS C:\2018.1\exercicio>
+
